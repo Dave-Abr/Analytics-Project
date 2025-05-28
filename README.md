@@ -11,7 +11,7 @@ Here you'll find models built with frameworks like **T
 - **Description**: Preparation and processing of flight-related datasets to enable accurate model training and evaluation.
 - **Context**: Development of a predictive model for flight prices.
 - **Tech**: `pandas`
-- **Notebook**: [`predictpriceflights.ipynb`](notebook/predictpriceflights.ipynb)
+- **Notebook**: [`predictpriceflights.ipynb`](notebooks/predictpriceflights.ipynb)
 - **Dataset**: [`bussines.csv`](data/), [`ecconomy.csv`](data/)
 
 ---
