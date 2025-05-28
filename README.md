@@ -1,11 +1,30 @@
-# Analytics-Project
+# 📂 Analytics Projects
 
-## Oportunidades por Tipo de Cliente
-Este dashboard permite visualizar las oportunidades comerciales según el tipo de cliente: Directo, Alianza Pública, ONG, etc.
+Welcome to the section of my portfolio dedicated to projects involving **data extraction** y **processing**.
 
-**Métricas principales:**
-- Total de oportunidades por mes
-- Monto total vs monto recibido
-- Comparativo por región y agente
+Here you'll find models built with frameworks like **T
+
+---
+
+
+### 🔍 Preparation processing data
+- **Description**: Preparation and processing of flight-related datasets to enable accurate model training and evaluation.
+- **Context**: Development of a predictive model for flight prices.
+- **Tech**: `pandas`
+- **Notebook**: [`predictpriceflights.ipynb`](notebook/predictpriceflights.ipynb)
+- **Dataset**: [`bussines.csv`](data/), [`ecconomy.csv`](data/)
+
+---
+
+
+### 📊 Unified Salesforce Dashboards
+- **Description**: Dashboard system that consolidates all commercial performance indicators within the company in a unified view.
+- **Key Metrics **: Monthly opportunities, performance vs. target, CAC (Cost of Customer Acquisition), total vs. received amounts, agent performance by region and individual.
+- **Tech**: `Salesforce Reporting`, `Salesforce Dashboards`
+- **Video**: [`salesforcereporting.mp4`](resources/salesforcereporting.mp4)
+- **Dataset**: NA
 
 ![Portada Salesforce](/Portada.PNG)
+---
+
+
